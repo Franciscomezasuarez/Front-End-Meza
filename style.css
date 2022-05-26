@@ -1,0 +1,16 @@
+.main{
+    display: flex;
+    flex-direction: row;
+}
+
+.carduno{
+    flex-direction: row;
+}
+
+.carddos{
+    flex-direction: row;
+}
+
+.cardtres{
+    flex-direction: row;
+}
